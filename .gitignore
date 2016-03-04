@@ -3,3 +3,6 @@
 .settings
 .classpath
 .metadata
+target
+.settings/*
+!.settings/.jsdtscope
